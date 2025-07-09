@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first repository
-AAKRITI SINHA
+ By author-AAKRITI SINHA
